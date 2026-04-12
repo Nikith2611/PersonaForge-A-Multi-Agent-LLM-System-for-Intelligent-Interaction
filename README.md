@@ -2,7 +2,7 @@
 
 # PersonaForge
 
-A multi-agent LLM system designed for intelligent interaction, persona simulation, and autonomous response evaluation using local models (Ollama).
+A multi-agent LLM system designed for intelligent interaction, persona simulation, and autonomous response evaluation using local models (llama3.2, phi3).
 
 ## Key Features
 - Multi-agent architecture (Assistant + Critic)
