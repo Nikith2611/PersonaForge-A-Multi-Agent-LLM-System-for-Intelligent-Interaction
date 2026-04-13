@@ -95,11 +95,9 @@ PersonaForge/
 ```
 ---
 ## ⚙️ Setup Instructions
-````
-
-
 
 ### 1. Clone the Repository
+````bash
 git clone https://github.com/your-username/PersonaForge-A-Multi-Agent-LLM-System-for-Intelligent-Interaction.git
 cd PersonaForge-A-Multi-Agent-LLM-System-for-Intelligent-Interaction
 ````
