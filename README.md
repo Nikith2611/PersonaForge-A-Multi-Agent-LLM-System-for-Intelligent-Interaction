@@ -97,10 +97,9 @@ PersonaForge/
 ## ⚙️ Setup Instructions
 ````
 
----
+
 
 ### 1. Clone the Repository
-```bash
 git clone https://github.com/your-username/PersonaForge-A-Multi-Agent-LLM-System-for-Intelligent-Interaction.git
 cd PersonaForge-A-Multi-Agent-LLM-System-for-Intelligent-Interaction
 ````
@@ -137,7 +136,7 @@ Since this project is implemented in a Jupyter Notebook, you can launch the app 
 jupyter notebook
 ```
 
-* Open `code.ipynb`
+* Open `Project_gemini-flash_Gradio_Pushover.ipynb`
 * Run all cells
 * The final cell launches a **Gradio interface**
 * A **public shareable link** will be generated automatically
@@ -151,9 +150,6 @@ Running on public URL: https://xxxxx.gradio.live
 
 You can use the public URL to access and share your AI persona.
 
-```bash
-python app.py
-```
 
 ---
 
