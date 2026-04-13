@@ -93,26 +93,11 @@ PersonaForge/
 ├── README.md
 └── LICENSE
 ```
-
-PersonaForge/
-│
-├── me/
-│   ├── Profile.pdf          # LinkedIn export
-│   └── summary.txt          # Professional summary
-│
-├── experiments/             # Experimental models
-│   ├── llama3.2/            # Trials using LLaMA 3.2
-│   └── phi3/                # Trials using Phi-3
-│
-├── app.py / notebook        # Main implementation
-├── .env                     # API keys
-└── README.md
-
+---
+## ⚙️ Setup Instructions
 ````
 
 ---
-
-## ⚙️ Setup Instructions
 
 ### 1. Clone the Repository
 ```bash
@@ -127,7 +112,7 @@ python -m venv venv
 source venv/bin/activate   # Linux/Mac
 venv\Scripts\activate      # Windows
 ```
-
+---
 ### 3. Install Dependencies
 
 ```bash
